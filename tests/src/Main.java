@@ -7,5 +7,11 @@ public class Main {
 	
 	public void doNothing(){
 		//ta-daa~
+		derp();
+	}
+	
+	private String derp(){
+		
+		return "derp";
 	}
 }
